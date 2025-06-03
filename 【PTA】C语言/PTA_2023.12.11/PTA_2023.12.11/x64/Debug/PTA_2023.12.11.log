@@ -1,0 +1,25 @@
+﻿  001.cpp
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(547,20): error C2440: “return”: 无法从“const char [8]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(547,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(548,20): error C2440: “return”: 无法从“const char [9]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(548,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(549,20): error C2440: “return”: 无法从“const char [6]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(549,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(550,20): error C2440: “return”: 无法从“const char [6]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(550,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(551,20): error C2440: “return”: 无法从“const char [4]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(551,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(552,20): error C2440: “return”: 无法从“const char [5]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(552,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(553,20): error C2440: “return”: 无法从“const char [5]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(553,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(554,20): error C2440: “return”: 无法从“const char [7]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(554,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(555,20): error C2440: “return”: 无法从“const char [10]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(555,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(556,21): error C2440: “return”: 无法从“const char [8]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(556,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(557,21): error C2440: “return”: 无法从“const char [9]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(557,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(558,21): error C2440: “return”: 无法从“const char [9]”转换为“char *”
+D:\code\training\PTA_2023.12.11\PTA_2023.12.11\001.cpp(558,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
